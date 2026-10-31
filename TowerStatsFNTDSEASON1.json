@@ -1148,26 +1148,26 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 1.5
+                "Damage": 200,
+                "Cooldown": 5
             },
             {
                 "Price": 2000,
                 "Range": 22,
-                "Damage": 1050,
-                "Cooldown": 1.5
+                "Damage": 250,
+                "Cooldown": 5
             },
             {
                 "Price": 3500,
                 "Range": 24,
-                "Damage": 1100,
-                "Cooldown": 1.5
+                "Damage": 300,
+                "Cooldown": 4
             },
             {
                 "Price": 5000,
                 "Range": 25,
-                "Damage": 1200,
-                "Cooldown": 1.5
+                "Damage": 400,
+                "Cooldown": 3
             }
         ]
     },
@@ -1249,11 +1249,11 @@
         ]
     },
     "Algae FredBear": {
-        "Type": "Nuke",
+        "Type": "Single",
         "Image": "rbxassetid://18255264349",
         "Rarity": "Nightmare",
         "PlacePrice": 3000,
-        "Max": 2,
+        "Max": 3,
         "Passive": {"Name": "Sludge", "Description": "Attacks slow enemies by 55% for 1 second"},
         "hitboxOffset": {
             "X": 0,
@@ -1264,7 +1264,7 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 1250,
+                "Damage": 250,
                 "Cooldown": 2,
                 "Slow": 0.45,
                 "SlowTime": 1
@@ -1272,7 +1272,7 @@
             {
                 "Price": 5000,
                 "Range": 18,
-                "Damage": 1500,
+                "Damage": 350,
                 "Cooldown": 1.5,
                 "Slow": 0.45,
                 "SlowTime": 1
@@ -1280,7 +1280,7 @@
             {
                 "Price": 7000,
                 "Range": 20,
-                "Damage": 1750,
+                "Damage": 500,
                 "Cooldown": 1.25,
                 "Slow": 0.45,
                 "SlowTime": 1
@@ -1288,7 +1288,7 @@
             {
                 "Price": 10000,
                 "Range": 25,
-                "Damage": 2000,
+                "Damage": 700,
                 "Cooldown": 1,
                 "Slow": 0.45,
                 "SlowTime": 1
