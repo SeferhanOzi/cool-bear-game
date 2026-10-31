@@ -1377,11 +1377,49 @@
             }
         ]
     },
+    "Party Fredbear": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://117170203859077",
+        "Rarity": "Mythic",
+        "PlacePrice": 650,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 20,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 1400,
+                "Range": 20,
+                "Damage": 25,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 2000,
+                "Range": 22,
+                "Damage": 30,
+                "Cooldown": 0.15
+            },
+            {
+                "Price": 2500,
+                "Range": 25,
+                "Damage": 40,
+                "Cooldown": 0.125
+            }
+        ]
+    },
     "Withered Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://116470883876234",
         "Rarity": "Exclusive",
-        "PlacePrice": 20000,
+        "PlacePrice": 6000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
