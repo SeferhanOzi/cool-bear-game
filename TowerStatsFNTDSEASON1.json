@@ -1376,5 +1376,44 @@
                 "Cooldown": 2
             }
         ]
+    },
+    "Withered Puppet": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://116470883876234",
+        "Rarity": "Exclusive",
+        "PlacePrice": 20000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.7,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 600,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 12000,
+                "Range": 17,
+                "Damage": 800,
+                "Cooldown": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 19,
+                "Damage": 1100,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 20000,
+                "Range": 21,
+                "Damage": 1300,
+                "Cooldown": 0.5
+            }
+        ]
     }
 }
